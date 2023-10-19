@@ -1,0 +1,6 @@
+pkg update
+plg upgrade
+pkg install git 
+git clone https://github.com/carbanak-hacker/zphisher.git
+cd zphisher
+bash zphisher.sh
